@@ -1,0 +1,20 @@
+<mahasiswa>
+    <IT>
+        <NRP>1972037</NRP>
+        <NAMA>Gabriel Octa Mahardika</NAMA>
+        <ALAMAT>Jln. Mawar UNJANI</ALAMAT>
+        <KOTA>CIMAHI</KOTA>
+    </IT>
+    <IT>
+        <NRP>1972040</NRP>
+        <NAMA>Adriel Rianson</NAMA>
+        <ALAMAT>Jln. Mawar Melati</ALAMAT>
+        <KOTA>BANDUNG</KOTA>
+    </IT>
+    <IT>
+        <NRP>1972043</NRP>
+        <NAMA>Michael Marenden </NAMA>
+        <ALAMAT>Jln. Raya</ALAMAT>
+        <KOTA>BANDUNG</KOTA>
+    </IT>
+</mahasiswa>
